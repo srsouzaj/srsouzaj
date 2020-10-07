@@ -7,7 +7,7 @@
 <br>
 Viso obter conhecimento na área da programação em um ambiente profissional e aprimorar as minhas habilidades na área de Desenvolvedor Front-End.<br>
 <br>
-Me siga nas redes abaixo para acompanhar o meu progresso:
+Me siga nas redes para acompanhar o meu progresso:
 <p align="center">
   <a href="https://github.com/jorgejrdj" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
