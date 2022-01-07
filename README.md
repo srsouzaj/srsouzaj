@@ -3,7 +3,7 @@
 <p align="center"> 🚀 Javascript | ReactJS | NodeJS  | HTML | Git | CSS 🚀 
 </p>
 
-👋 Olá! Sou Jorge de Souza, graduando em Sistemas de Informação. Formado em Tecnólogo em Logística. <br>
+👋 Olá! Sou Jorge de Souza, graduado em Sistemas de Informação. Formado em Tecnólogo em Logística. <br>
 <br>
 Viso obter conhecimento na área da programação em um ambiente profissional e aprimorar as minhas habilidades na área de Desenvolvedor Front-End.<br>
 <br>
