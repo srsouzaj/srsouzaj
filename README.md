@@ -9,10 +9,10 @@ Viso obter conhecimento na área da programação em um ambiente profissional e 
 <br>
 Me siga nas redes para acompanhar o meu progresso:
 <p align="center">
-  <a href="https://github.com/jorgejrdj" alt="GitHub">
+  <a href="https://github.com/srsouzaj" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jorgejsdj/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/srsouzaj/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
