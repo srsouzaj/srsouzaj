@@ -1,6 +1,6 @@
 <h1 align="center"> Seja bem vindo à minha página do Github! </h1> 
 
-<p align="center"> 🚀 Javascript | ReactJS | NodeJS  | HTML | Git | CSS 🚀 
+<p align="center"> 🚀 Javascript | ReactJS | NextJS  | Typescript | Git | SCSS 🚀 
 </p>
 
 👋 Olá! Sou Jorge de Souza, graduado em Sistemas de Informação. Formado em Tecnólogo em Logística. <br>
