@@ -2,6 +2,7 @@
 
 <h4 align="center"> 🚀 ReactJS | NextJS | SASS |Typescript | ChakraUI 🚀 </h4>
 
+<br>
 👋 Olá! Sou Jorge de Souza, graduado em Sistemas de Informação. Formado em Tecnólogo em Logística. <br>
 <br>
 Formado em Sistema da Informação pela Universidade Santa Cecília. Graduado em Logística pela Etec Paula Souza. Fiz transição de carreira para programação.
