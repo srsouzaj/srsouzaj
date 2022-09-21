@@ -3,14 +3,15 @@
 <h4 align="center"> 🚀 ReactJS | NextJS | SASS |Typescript | ChakraUI 🚀 </h4>
 
 <br>
-👋 Olá! Sou Jorge de Souza, graduado em Sistemas de Informação. Formado em Tecnólogo em Logística. <br>
+<br>
+👋 Olá! Sou Jorge de Souza <br>
 <br>
 Formado em Sistema da Informação pela Universidade Santa Cecília. Graduado em Logística pela Etec Paula Souza. Fiz transição de carreira para programação.
-<br>
+<br><br>
 Atualmente estou focado em desenvolvimento Front-End com experiência profissional em TS | NextJS e ChakraUI.
-<br>
+<br><br>
 Hoje sou Frontend Software Engineer em uma startup onde atuo no desenvolvimento e documentação front-end com ReactJS | NextJS.
-<br>
+<br><br>
 Me siga nas redes para acompanhar o meu progresso:
 <p align="center">
   <a href="https://github.com/srsouzaj" alt="GitHub">
