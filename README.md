@@ -10,8 +10,6 @@ Formado em Sistema da Informação pela Universidade Santa Cecília. Graduado em
 <br><br>
 Atualmente estou focado em desenvolvimento Front-End com experiência profissional em TS | NextJS e ChakraUI.
 <br><br>
-Hoje sou Frontend Software Engineer em uma startup onde atuo no desenvolvimento e documentação front-end com ReactJS | NextJS.
-<br><br>
 Me siga nas redes para acompanhar o meu progresso:
 <br>
 <p align="center">
